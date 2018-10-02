@@ -2,15 +2,13 @@
 
 ## Installation ##
 
-Copy the files/folders from `/Presets` to your photoshop Presets folder:
-
-(e.g. `C:\Program Files\Adobe\Adobe Photoshop CC 2018\Presets`)
-
+* Copy the files/folders from `/Presets` to your photoshop Presets folder:
+(e.g. `C:\Program Files\Adobe\Adobe Photoshop CC 2018\Presets`). 
 Replace everything when prompted. Don't worry though, nothing is getting replaced, just merged with new files.
 
-Restart photoshop
+* Restart photoshop
 
-Go to `Edit > Keyboard Shortcuts` and change the "Set" (near top right corner) from "Default" to "color mod keys"
+* Go to `Edit > Keyboard Shortcuts` and change the "Set" (near top right corner) from "Default" to "color mod keys"
 
 Now you can use CTRL+ALT Q A W S E D to modify your foreground color
 
