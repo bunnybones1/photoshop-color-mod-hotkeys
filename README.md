@@ -1,6 +1,6 @@
-#Keyboard shortcuts to modify forground colors in Photoshop#
+# Keyboard shortcuts to modify forground colors in Photoshop #
 
-##Installation##
+## Installation ##
 
 Copy the files/folders from `/Presets` to your photoshop Presets folder:
 
