@@ -1,0 +1,1 @@
+﻿app.foregroundColor.hsb.hue -= 10.0;

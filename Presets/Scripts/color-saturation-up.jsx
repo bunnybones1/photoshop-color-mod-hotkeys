@@ -1,0 +1,1 @@
+﻿app.foregroundColor.hsb.saturation = Math.max(0, Math.min(100, app.foregroundColor.hsb.saturation + 5));
